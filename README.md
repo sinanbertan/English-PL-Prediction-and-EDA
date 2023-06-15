@@ -1,5 +1,5 @@
 
-# Olympics-history-Analysis
+# English Premier League Score Prediction and EDA
 
 - This repository contains the code and data for a project on England Premier League player's info and stats in 2020-201 . The project uses the EPL_20_21.csv dataset, which can be downloaded from Kaggle. Link:https://www.kaggle.com/datasets/rajatrc1705/english-premier-league202021?select=EPL_20_21.csv
 
